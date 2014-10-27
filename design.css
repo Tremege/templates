@@ -181,7 +181,7 @@ section p {
     background: none;
     border: none;
 }
-.pick input[type="submit"] {
+.pick button {
     display: inline-block;
     vertical-align: top;
     margin: 0;
@@ -195,7 +195,7 @@ section p {
     border-left: 0.063em solid #1f8dd6;
     border-radius: 0;
 }
-.pick input[type="submit"]:hover {
+.pick button:hover {
     color: #fff;
     background: #1f8dd6;
 }
